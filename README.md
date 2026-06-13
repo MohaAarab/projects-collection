@@ -44,6 +44,6 @@ MIT License—freely reuse, adapt, and share.
 
 Found this useful? Follow me on LinkedIn for more project drops:
 
-(https://www.linkedin.com/in/mohamed-aarab-automation-specialist/)
+[AARABAUTOMATION](https://www.linkedin.com/in/mohamed-aarab-automation-specialist/)
 
 Got questions or want to collaborate? Open an issue or reach out.
